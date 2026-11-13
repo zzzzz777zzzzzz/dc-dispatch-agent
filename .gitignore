@@ -1,0 +1,8 @@
+target/
+.idea/
+*.iml
+*.log
+logs/
+application-local.yml
+.DS_Store
+node_modules/
